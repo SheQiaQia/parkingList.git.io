@@ -1,0 +1,71 @@
+//Json
+
+const object=[{
+	'parking':101016,
+	'isStop':false,
+	'stopCarNum':'粤TEST97'
+},{
+	'parking':101016,
+	'isStop':false,
+	'stopCarNum':'粤TEST97'
+},{
+	'parking':101016,
+	'isStop':false,
+	'stopCarNum':'粤TEST97'
+},{
+	'parking':101016,
+	'isStop':false,
+	'stopCarNum':'粤TEST97'
+},{
+	'parking':101016,
+	'isStop':false,
+	'stopCarNum':'粤TEST97'
+},{
+	'parking':101016,
+	'isStop':false,
+	'stopCarNum':'粤TEST97'
+},{
+	'parking':101016,
+	'isStop':false,
+	'stopCarNum':'粤TEST97'
+},{
+	'parking':101016,
+	'isStop':false,
+	'stopCarNum':'粤TEST97'
+},{
+	'parking':101016,
+	'isStop':false,
+	'stopCarNum':'粤TEST97'
+},{
+	'parking':101016,
+	'isStop':false,
+	'stopCarNum':'粤TEST97'
+},{
+	'parking':101016,
+	'isStop':false,
+	'stopCarNum':'粤TEST97'
+},{
+	'parking':101016,
+	'isStop':false,
+	'stopCarNum':'粤TEST97'
+},{
+	'parking':101016,
+	'isStop':false,
+	'stopCarNum':'粤TEST97'
+},{
+	'parking':101016,
+	'isStop':false,
+	'stopCarNum':'粤TEST97'
+},{
+	'parking':101016,
+	'isStop':false,
+	'stopCarNum':'粤TEST97'
+},{
+	'parking':101016,
+	'isStop':false,
+	'stopCarNum':'粤TEST97'
+},{
+	'parking':101016,
+	'isStop':false,
+	'stopCarNum':'粤TEST97'
+}]
